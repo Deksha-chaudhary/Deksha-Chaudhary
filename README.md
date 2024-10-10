@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nitinkumar2003/nitinkumar2003/blob/main/Nk_git.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Deksha-chaudhary/Deksha-Chaudhary/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">Aspiring Java and React.js Developer | Full Stack Developer</h3>  
